@@ -59,12 +59,9 @@ button, LEDs and resistors.
 
 </div>
 
-
-
-
-### **Study Design**
-
 ### More Details
+
+For detailed study design and research study discussion please refer my ![Thesis Report](/Thesis_Report.pdf)
 
 
 
