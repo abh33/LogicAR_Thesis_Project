@@ -38,16 +38,31 @@ button, LEDs and resistors.
 
 4. **L4 (Problem Statement Implementation)** - The activities in this level help the students develop the logic for line follower robot. The consist of a series of activities related to the motion of the robot and how the robot should move according to the different line sensor outputs.
 
-### **Application Screenshots and Videos**
+### **Application Demo**
+<div align="center">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y1Kj9ANWe74?si=AiCRaXpPGswc6-IP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![L1_NOT_GATE](https://img.youtube.com/vi/cKQopP2BCDs/0.jpg)](https://www.youtube.com/watch?v=cKQopP2BCDs)
+<br><b> L1 NOT Gate Demo</b>
+
+[![L1_AND_GATE](https://img.youtube.com/vi/y1Kj9ANWe74/0.jpg)](https://www.youtube.com/watch?v=y1Kj9ANWe74)
+<br><b> L1 AND Gate Demo</b>
+
+[![L1_OR_GATE](https://img.youtube.com/vi/RtpthFs0wEk/0.jpg)](https://www.youtube.com/watch?v=RtpthFs0wEk)
+<br><b> L1 OR Gate Demo</b>
+
+[![L2_Activities](https://img.youtube.com/vi/Kin4EeoN-VY/0.jpg)](https://www.youtube.com/watch?v=Kin4EeoN-VY)
+<br><b> L2 Activities Demo</b>
+
+[![L3_Activities](https://img.youtube.com/vi/lToHwaJ90UA/0.jpg)](https://www.youtube.com/watch?v=lToHwaJ90UA)
+<br><b> L3 Activities Demo</b>
+
+
+</div>
 
 
 
 
-### **Study Design** 
-
-### **Application Screenshots and Videos**
+### **Study Design**
 
 ### More Details
 
