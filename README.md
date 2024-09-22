@@ -40,6 +40,8 @@ button, LEDs and resistors.
 
 ### **Application Screenshots and Videos**
 
+[](https://raw.githubusercontent.com/abh33/LogicAR_Thesis_Project/main/Images/L1_and_gate.mp4)
+
 
 
 
