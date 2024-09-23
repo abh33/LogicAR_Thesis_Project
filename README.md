@@ -39,6 +39,8 @@ button, LEDs and resistors.
 4. **L4 (Problem Statement Implementation)** - The activities in this level help the students develop the logic for line follower robot. The consist of a series of activities related to the motion of the robot and how the robot should move according to the different line sensor outputs.
 
 ### **Application Demo**
+
+Click on the below thumbnail images to view the application demo video on youtube.
 <div align="center">
 
 [![L1_NOT_GATE](https://img.youtube.com/vi/cKQopP2BCDs/0.jpg)](https://www.youtube.com/watch?v=cKQopP2BCDs)
